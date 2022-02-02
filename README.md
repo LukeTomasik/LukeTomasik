@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **M.E.R.N stack**
 
-- 👨‍💻 All of my projects are available at [https://luketomasik.com/](https://luketomasik.com)
+- 👨‍💻 All of my projects are available at [https://luketomasik.com](https://luketomasik.com)
 
 - 💬 Ask me about **Javascript - React - Node - MongoDB - Express**
 
