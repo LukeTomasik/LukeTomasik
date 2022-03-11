@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lukasz Tomasik</h1>
 <h3 align="center">A passionate Full-Stack developer that enjoys solving life problems</h3>
 
-- 🌱 I’m currently learning **M.E.R.N stack**
+- 🌱 I’m currently a **Full-Stack Software Engineer (M.E.R.N)**
 
 - 👨‍💻 All of my projects are available at [https://luketomasik.com](https://luketomasik.com)
 
